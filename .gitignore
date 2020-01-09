@@ -1,0 +1,10 @@
+# Ignore folders
+.ipynb_checkpoints/
+Data/
+logos/
+
+# ignore files
+*.h5
+
+# ignore old files
+*_old.*
